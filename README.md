@@ -1,8 +1,5 @@
 QUIZZICAL | React project
 
-
-# co23a46d2933d66f4dac11702
-
 Quick start:
 
 ```
